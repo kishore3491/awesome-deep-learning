@@ -29,7 +29,6 @@
 
 1.  [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/) by Yoshua Bengio, Ian Goodfellow and Aaron Courville  (05/07/2015)
 2.  [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) by  Michael Nielsen (Dec 2014)
-3.  [Deep Learning](http://research.microsoft.com/pubs/209355/DeepLearning-NowPublishing-Vol7-SIG-039.pdf) by Microsoft Research (2013) 
 4.  [Deep Learning Tutorial](http://deeplearning.net/tutorial/deeplearning.pdf) by LISA lab, University of Montreal (Jan 6 2015)
 5.  [neuraltalk](https://github.com/karpathy/neuraltalk) by Andrej Karpathy : numpy-based RNN/LSTM implementation
 6.  [An introduction to genetic algorithms](https://svn-d1.mpi-inf.mpg.de/AG1/MultiCoreLab/papers/ebook-fuzzy-mitchell-99.pdf)
@@ -39,23 +38,16 @@
 ### Courses
 
 1.  [Machine Learning - Stanford](https://class.coursera.org/ml-005) by Andrew Ng in Coursera (2010-2014)
-2.  [Machine Learning - Caltech](http://work.caltech.edu/lectures.html) by Yaser Abu-Mostafa (2012-2014)
-3.  [Machine Learning - Carnegie Mellon](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) by Tom Mitchell (Spring 2011)
 2.  [Neural Networks for Machine Learning](https://class.coursera.org/neuralnets-2012-001) by Geoffrey Hinton in Coursera (2012)
 3.  [Neural networks class](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH) by Hugo Larochelle from Université de Sherbrooke (2013)
 4.  [Deep Learning Course](http://cilvr.cs.nyu.edu/doku.php?id=deeplearning:slides:start) by CILVR lab @ NYU (2014)
 5.  [A.I - Berkeley](https://courses.edx.org/courses/BerkeleyX/CS188x_1/1T2013/courseware/) by Dan Klein and Pieter Abbeel (2013)
-6.  [A.I - MIT](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/) by Patrick Henry Winston (2010)
 7.  [Vision and learning - computers and brains](http://web.mit.edu/course/other/i2course/www/vision_and_learning_fall_2013.html) by Shimon Ullman, Tomaso Poggio, Ethan Meyers @ MIT (2013)
-8.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus_winter2015.html) by Fei-Fei Li, Andrej Karpathy (2015)
 9.  [Convolutional Neural Networks for Visual Recognition - Stanford](http://vision.stanford.edu/teaching/cs231n/syllabus.html) by Fei-Fei Li, Andrej Karpathy (2016)
 10.  [Deep Learning for Natural Language Processing - Stanford](http://cs224d.stanford.edu/)
 11.  [Neural Networks - usherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html)
-12.  [Machine Learning - Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/) (2014-2015)
 13.  [Deep Learning - Nvidia](https://developer.nvidia.com/deep-learning-courses) (2015)
-14.  [Graduate Summer School: Deep Learning, Feature Learning] (https://www.youtube.com/playlist?list=PLHyI3Fbmv0SdzMHAy0aN59oYnLy5vyyTA) by Geoffrey Hinton, Yoshua Bengio, Yann LeCun, Andrew Ng, Nando de Freitas and several others @ IPAM, UCLA (2012)
 15.  [Deep Learning - Udacity/Google](https://www.udacity.com/course/deep-learning--ud730) by Vincent Vanhoucke and Arpan Chakraborty (2016)
-16.  [Deep Learning - UWaterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE) by Prof. Ali Ghodsi at University of Waterloo (2015)
 17.  [Statistical Machine Learning - CMU](https://www.youtube.com/watch?v=azaLcvuql_g&list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r) by Prof. Larry Wasserman
 18.  [Deep Learning Course](https://www.college-de-france.fr/site/en-yann-lecun/course-2015-2016.htm) by Yann LeCun (2016)
 
